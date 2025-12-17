@@ -1,0 +1,11 @@
+{
+  "name": "Snap7 Add-on",
+  "version": "1.0",
+  "slug": "snap7_addon",
+  "description": "Home Assistant Add-on per interfacciarsi con PLC Siemens usando Snap7",
+  "arch": ["amd64", "armv7", "aarch64"],
+  "startup": "services",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
